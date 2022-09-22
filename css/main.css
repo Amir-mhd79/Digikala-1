@@ -1,0 +1,107 @@
+div{
+    margin-bottom: 10px;
+}
+div.wrapper{
+    background-color: lime;
+}
+div.header{
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+}
+div.search{
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+}
+div.menu{
+    width: 100%;
+    height: 40px;
+    background-color: bisque;
+}
+div.slider{
+    width: 100%;
+    height: 400px;
+    background-color: blueviolet;
+}
+div.icon{
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+}
+div.pishnahad{
+    width: 100%;
+    height: 180px;
+    background-color: brown;
+}
+div.supermarket{
+    width: 100%;
+    height: 65px;
+    background-color: cadetblue;
+}
+div.takhfif{
+    width: 100%;
+    height: 150px;
+    background-color: chartreuse;
+}
+div.dastebandi{
+    width: 100%;
+    height: 400px;
+    background-color: chocolate;
+}
+div.tabligh{
+    width: 100%;
+    height: 150px;
+    background-color: crimson;
+}
+div.offerdigikala{
+    width: 100%;
+    height: 300px;
+    background-color: darkblue;
+}
+div.popularbrands{
+    width: 100%;
+    height: 300px;
+    background-color: darkgreen;
+}
+div.jashnvareh{
+    width: 100%;
+    height: 250px;
+    background-color: deeppink;
+}
+div.recentlyview{
+    width: 100%;
+    height: 450px;
+    background-color: darkgoldenrod;
+}
+div.digiplus{
+    width: 100%;
+    height: 350px;
+    background-color: dimgrey;
+}
+div.digiclub{
+    width: 100%;
+    height: 70px;
+    background-color: greenyellow;
+}
+div.mostboughtproducts{
+    width: 100%;
+    height: 550px;
+    background-color: maroon;
+}
+div.haraj{
+    width: 100%;
+    height: 700px;
+    background-color: olive;
+}
+div.readable{
+    width: 100%;
+    height: 180px;
+    background-color: navy;
+}
+div.footer{
+    width: 100%;
+    height: 480px;
+    background-color: orchid;
+}
+
